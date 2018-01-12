@@ -4,5 +4,5 @@ This repository serves to provide a list of examples on setting up JangoSMTP wit
 
 ## Software
 
-[Postfix on CentOS 7](docs/postfix.md)
-[Gitlab](https://docs.gitlab.com/omnibus/settings/smtp.html#jangosmtp)
+* [Gitlab](https://docs.gitlab.com/omnibus/settings/smtp.html#jangosmtp)
+* [Postfix on CentOS 7](docs/postfix.md)
